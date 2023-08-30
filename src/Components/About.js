@@ -3,9 +3,6 @@ import React from 'react'
 export default function About(props) {
 
   let myStyle = {
-    // color: props.mode === 'dark' ? 'white': 'black',
-    // backgroundColor:  props.mode === 'dark' ? '2B2F30': 'white',
-
     color: props.mode ==='dark'?'white':'#042743',
     backgroundColor: props.mode ==='dark'?'rgb(65 65 65)':'white', 
   }
