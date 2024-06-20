@@ -2,4 +2,4 @@
  TextUtils is a utility which can be used to manipulate the text and use it
 
 You can preview the app here:
-https://ninja1o1.github.io/TextUtils-React/
+https://manojkumarpangi.github.io/TextUtils-React/
