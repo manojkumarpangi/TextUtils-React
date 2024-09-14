@@ -1,9 +1,3 @@
-# TextUtils React
- TextUtils is a utility which can be used to manipulate the text and use it
-
-You can preview the app here:
-https://manojkumarpangi.github.io/TextUtils-React/
-
 # TextUtils
 
 TextUtils is a React.js application designed for efficient text manipulation. It provides various tools for users to modify and analyze text, including text conversion and space elimination.
